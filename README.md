@@ -2,6 +2,8 @@
 
 ### By Rodrigo Guarneros
 
+The dashboard is available at: https://rodguarneros.github.io/Plotly-Challenge/ 
+
 ![Bacteria by filterforge.com](microbes-sem.jpg)
 
 This interactive dashboard explores the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
