@@ -2,7 +2,7 @@
 
 ### By Rodrigo Guarneros
 
-![Bacteria by filterforge.com](Images/microbes-sem.jpg)
+![Bacteria by filterforge.com](microbes-sem.jpg)
 
 This interactive dashboard explores the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
@@ -20,7 +20,7 @@ Based on D3, the dashboard building process was integrated by the following teps
 
 The result was a dashboard with a Barchart, Bubble Chart and a Gauge Chart:
 
-![Bacteria by filterforge.com](Images/rodguarneros_result.jpg)
+![Bacteria by filterforge.com](rodguarneros_result.jpg)
 
 ### References and bibliography
 
